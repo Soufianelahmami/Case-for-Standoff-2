@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"tips mod 1","desc":"Standoff 2 is a popular mobile first-person shooter game that has been making waves in the gaming industry. The game has been praised for its excellent graphics, easy-to-use controls,","photo":"https://iili.io/HeDqED7.jpg"},
+  {"title":"advice pack 2","desc":"Standoff 2 is a popular mobile first-person shooter game that has been making waves in the gaming industry. The game has been praised for its excellent graphics, easy-to-use controls,","photo":"https://iili.io/HeDq1NS.jpg"},
+  {"title":"how to use this app 3","desc":"First and foremost, Standoff 2 is an excellent game for anyone who loves first-person shooters. The game has a wide range of maps, weapons, and game modes that provide players with endless hours of entertainment. ","photo":"https://iili.io/HeDq0R2.jpg"},
+  {"title":"advance mod 4","desc":"First and foremost, anyone who enjoys first-person shooters will adore Standoff 2. The game offers players several hours of fun because to its diverse selection of maps, weapons, and game styles.","photo":"https://iili.io/HeDqlHl.jpg"},
+  {"title":"helper pack 5","desc":"The controls are intuitive and easy to use, making it easy for players of all skill levels to jump right in and start playing.","photo":"https://iili.io/HeDqVVe.jpg"},
+  {"title":"tips mod 6","desc":"One of the things that sets Standoff 2 apart from other first-person shooter games is its graphics. The game features stunning 3D graphics that are sure to impress even the most demanding players. The attention to detail is impressive, and the game's environments feel rich and immersive.","photo":"https://iili.io/HeDqWiu.jpg"},
+  {"title":"advice pack 7","desc":"In the first place, Standoff 2 is a fantastic game for everyone who like first-person shooters. Players can enjoy countless hours of fun because to the game's extensive selection of areas, weapons, and game modes.In addition to its graphics, Standoff 2 also has a robust multiplayer mode that allows players to compete against each other in real-time. The game supports up to 10 players per match, and there are several different game modes to choose from, including Deathmatch, ","photo":"https://iili.io/HeDqMx9.jpg"},
+  {"title":"how to use this app 8","desc":"In addition to its graphics, Standoff 2 also has a robust multiplayer mode that allows players to compete against each other in real-time. The game supports up to 10 players per match, and there are several different game modes to choose from, including Deathmatch, ","photo":"https://iili.io/HeDqhKb.jpg"}
 
    ]
  
